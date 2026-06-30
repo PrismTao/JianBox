@@ -1,32 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JianBox Privacy Policy</title>
-    <style>
-        body { max-width: 720px; margin: 40px auto; padding: 0 16px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.7; color: #333; }
-        h1, h2 { color: #111; }
-        hr { border: none; border-top: 1px solid #eee; margin: 24px 0; }
-        a { color: #007AFF; }
-        ul { padding-left: 20px; }
-    </style>
-</head>
-<body>
-    <h1>JianBox Privacy Policy</h1>
-    <p><em>Effective Date: June 30, 2026</em></p>
+# JianBox Privacy Policy
 
-    <h2>1. Overview</h2>
-    <p>JianBox is a local file management and utility app. We highly value your privacy. This policy explains how we handle your information.</p>
+*Effective Date: June 30, 2026*
 
-    <h2>2. Information We Collect</h2>
-    <p><strong>JianBox does not collect any personal data on our servers by default.</strong> All file operations (unzip, view, encrypted vault) are processed locally on your device and are never uploaded to our servers.</p>
-    <p>The following features may involve device permissions:</p>
-    <ul>
-        <li><strong>Camera:</strong> Used for scanning QR codes and barcodes. Images are processed only on your device.</li>
-        <li><strong>FaceID:</strong> Used to unlock the local encrypted vault. Biometric data is stored and managed solely by the iOS system. We and any third party cannot access it.</li>
-        <li><strong>Photo Library:</strong> Used to select and save photos and videos. We only access files you actively choose.</li>
-    </ul>
+## 1. Overview
 
-    <h2>3. Subscriptions & In-App Purchases</h2>
-    <p>JianBox offers premium membership via in-app purchase.
+JianBox is a local file management and utility app. We highly value your privacy. This policy explains how we handle your information.
+
+## 2. Information We Collect
+
+**JianBox does not collect any personal data on our servers by default.** All file operations (unzip, view, encrypted vault) are processed locally on your device and are never uploaded to our servers.
+
+The following features may involve device permissions:
+
+- **Camera:** Used for scanning QR codes and barcodes. Images are processed only on your device.
+- **FaceID:** Used to unlock the local encrypted vault. Biometric data is stored and managed solely by the iOS system. We and any third party cannot access it.
+- **Photo Library:** Used to select and save photos and videos. We only access files you actively choose.
+
+## 3. Subscriptions & In-App Purchases
+
+JianBox offers premium membership via in-app purchase. All payment processing is handled directly by Apple through the App Store. We do not collect or store your payment information (such as credit card details). Transaction data is managed by Apple's privacy policy, available at [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
+
+## 4. Third-Party Services
+
+We integrate Apple system frameworks (FaceID, Photo Library, StoreKit). These services have their own privacy policies governed by Apple.
+
+## 5. Data Security
+
+Your vault files are stored locally on your device using iOS system-level encryption (AES-256). We have no access to your files or encryption keys.
+
+## 6. Your Rights
+
+You may uninstall the app at any time to remove all local data. If you have any questions, please contact us at: liutao124@gmail.com
+
+## 7. Policy Updates
+
+If this policy changes, we will notify you through in-app notifications or update notes.
